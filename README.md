@@ -20,10 +20,10 @@
 ### Usage
 `UIImageView-AutoAdapter`使用了`runtime`黑魔法，你不需要进行任何额外的调用就可以直接使用。当然，如果你想让某个`UIImageView`不使用`UIImageView-AutoAdapter`，你可以用如下方式为这个`UIImageView`关闭使用`UIImageView-AutoAdapter`。
         
-        #import "KeyboardToolBar.h"
-        
-        // imageView是UIImageView的实例对象
-        [imageView setCloseAdapter:YES];
+    #import "KeyboardToolBar.h"
+
+    // imageView是UIImageView的实例对象
+    [imageView setCloseAdapter:YES];
 
 ### License
 [UIImageView-AutoAdapter](https://github.com/Jiar/UIImageView-AutoAdapter)使用了MIT开源协议。
