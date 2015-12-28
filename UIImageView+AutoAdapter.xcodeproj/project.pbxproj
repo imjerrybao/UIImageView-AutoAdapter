@@ -96,8 +96,8 @@
 		8082BDCD1C31394300DF3E58 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				8082BDCE1C31395300DF3E58 /* UIImageView+AutoAdapter.m */,
 				8082BDCF1C31395300DF3E58 /* UIImageView+AutoAdapter.h */,
+				8082BDCE1C31395300DF3E58 /* UIImageView+AutoAdapter.m */,
 			);
 			path = Classes;
 			sourceTree = SOURCE_ROOT;
