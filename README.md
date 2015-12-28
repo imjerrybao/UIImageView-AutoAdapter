@@ -3,12 +3,12 @@
 ![UIImageView-AutoAdapter show](/images/UIImageView+AutoAdapter.jpg?raw=true)  
 上图由两部分组成，左边为xib中图片的显示形式，右边为实际在真机上图片的显示形式。在左边的显示效果中我们可以看到，图片以拉伸或是压缩的形式显示，而右边的显示效果中，图片以理想的效果显示。
 
-> 最后一张图片由于我在代码中设置了关闭了使用`UIImageView-AutoAdapter`，因此两边最后一张图片的显示效果一样。
-
+> 最后一张图片由于我在代码中设置了关闭了使用`UIImageView-AutoAdapter`，因此两边最后一张图片的显示效果一样。
+«
 由此可见，使用`UIImageView-AutoAdapter`即可轻松解决图片适应问题。
 ### How To Get Started
 
-- 下载[UIImageView-AutoAdapter](https://github.com/Jiar/UIImageView-AutoAdapter)并尝试在真机或者模拟器上运行。
+- 下载[UIImageView-AutoAdapter](https://github.com/Jiar/UIImageView-AutoAdapter)并尝试在真机或者模拟器上运行。
 
 ### Installation with CocoaPods
 #### Podfile
